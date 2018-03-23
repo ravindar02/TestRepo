@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema#",
-    "id": "bbox.json",
+    "id": "https://github.com/ravindardayachand/TestRepo/edit/master/bbox.json",
     "description": "A bounding box as defined by GeoJSON",
     "FIXME": "unenforceable constraint: even number of elements in array",
     "type": "array",
