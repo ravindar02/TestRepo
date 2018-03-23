@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "#label.json",
+  "id": "label.json",
   "title": "label",
   "description": "label",
   "type": "object",
