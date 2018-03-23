@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema#",
-    "id" : "crs.json",
+    "id" : "https://github.com/ravindardayachand/TestRepo/edit/master/crs.json",
     "description": "a Coordinate Reference System object",
     "type": [ "object", "null" ],
     "required": [ "type", "properties" ],
